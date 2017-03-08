@@ -1,3 +1,3 @@
 # LearningTensorFlow
 
-Backup the codes when learning TensorFlow. 
+Backup of the codes I used when learning TensorFlow. 
